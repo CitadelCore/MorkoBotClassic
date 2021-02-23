@@ -1,0 +1,8 @@
+packages
+.vs
+.vscode
+*.vspscc
+*.vssscc
+*.csproj.user
+obj
+bin

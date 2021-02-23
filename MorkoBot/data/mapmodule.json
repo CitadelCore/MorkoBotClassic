@@ -1,0 +1,536 @@
+{
+  "maplist": {
+    "office": {
+      "chapter": 1,
+      "bspname": "infra_c1_m1_office",
+      "infra_metadata":
+      {
+      	"camera_targets": 0,
+      	"corruption_targets": 3,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "reserve1": {
+      "chapter": 2,
+      "bspname": "infra_c2_m1_reserve1",
+      "infra_metadata":
+      {
+      	"camera_targets": 16,
+      	"corruption_targets": 4,
+      	"repair_targets": 3,
+      	"mistake_targets": 2,
+      	"geocaches": 3,
+      	"water_flow_meter_targets": 1
+      },
+      "playtest": false
+    },
+    "reserve2": {
+      "chapter": 2,
+      "bspname": "infra_c2_m2_reserve2",
+      "infra_metadata":
+      {
+      	"camera_targets": 19,
+      	"corruption_targets": 7,
+      	"repair_targets": 2,
+      	"mistake_targets": 4,
+      	"geocaches": 2,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "reserve3": {
+      "chapter": 2,
+      "bspname": "infra_c2_m1_reserve3",
+      "infra_metadata":
+      {
+      	"camera_targets": 8,
+      	"corruption_targets": 3,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 2,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "tunnel1": {
+      "chapter": 3,
+      "bspname": "infra_c3_m1_tunnel",
+      "infra_metadata":
+      {
+      	"camera_targets": 19,
+      	"corruption_targets": 6,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 1
+      },
+      "playtest": false
+    },
+    "hallway": {
+      "chapter": 3,
+      "bspname": "infra_ee_hallway",
+      "infra_metadata":
+      {
+      	"camera_targets": -1,
+      	"corruption_targets": -1,
+      	"repair_targets": -1,
+      	"mistake_targets": -1,
+      	"geocaches": -1,
+      	"water_flow_meter_targets": -1,
+        "RAVEN RESEARCH INSTITUTE": "DATA LOST",
+        "LEGEND OF THE DIVING SUIT": "unknown_WATERTREES",
+        "SYSTEM ERROR SYSTEM ERROR": "DATA CORRUPTED"
+      },
+      "playtest": false
+    },
+    "tunnel2": {
+      "chapter": 3,
+      "bspname": "infra_c3_m2_tunnel2",
+      "infra_metadata":
+      {
+      	"camera_targets": 9,
+      	"corruption_targets": 6,
+      	"repair_targets": 1,
+      	"mistake_targets": 3,
+      	"geocaches": 2,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "tunnel3": {
+      "chapter": 3,
+      "bspname": "infra_c3_m3_tunnel3",
+      "infra_metadata":
+      {
+      	"camera_targets": 16,
+      	"corruption_targets": 5,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 1
+      },
+      "playtest": false
+    },
+    "tunnel4": {
+      "chapter": 3,
+      "bspname": "infra_c3_m4_tunnel4",
+      "infra_metadata":
+      {
+      	"camera_targets": 31,
+      	"corruption_targets": 7,
+      	"repair_targets": 1,
+      	"mistake_targets": 1,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "furnace": {
+      "chapter": 4,
+      "bspname": "infra_c4_m2_furnace",
+      "infra_metadata":
+      {
+      	"camera_targets": 3,
+      	"corruption_targets": 5,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "tower": {
+      "chapter": 4,
+      "bspname": "infra_c4_m3_tower",
+      "infra_metadata":
+      {
+      	"camera_targets": 3,
+      	"corruption_targets": 5,
+      	"repair_targets": 1,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "watertreatment": {
+      "chapter": 5,
+      "bspname": "infra_c5_m1_watertreatment",
+      "infra_metadata":
+      {
+      	"camera_targets": 17,
+      	"corruption_targets": 4,
+      	"repair_targets": 2,
+      	"mistake_targets": 1,
+      	"geocaches": 2,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "sewer": {
+      "chapter": 5,
+      "bspname": "infra_c5_m2_sewer",
+      "infra_metadata":
+      {
+      	"camera_targets": 21,
+      	"corruption_targets": 9,
+      	"repair_targets": 6,
+      	"mistake_targets": 4,
+      	"geocaches": 3,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "sewer2": {
+      "chapter": 5,
+      "bspname": "infra_c5_m2b_sewer2",
+      "infra_metadata":
+      {
+      	"camera_targets": 11,
+      	"corruption_targets": 3,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "sewer3": {
+      "chapter": 6,
+      "bspname": "infra_c6_m1_sewer3",
+      "infra_metadata":
+      {
+      	"camera_targets": 10,
+      	"corruption_targets": 1,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "metro": {
+      "chapter": 6,
+      "bspname": "infra_c6_m2_metro",
+      "infra_metadata":
+      {
+      	"camera_targets": 11,
+      	"corruption_targets": 6,
+      	"repair_targets": 0,
+      	"mistake_targets": 3,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "metroride": {
+      "chapter": 6,
+      "bspname": "infra_c6_m3_metroride",
+      "infra_metadata":
+      {
+      	"camera_targets": 12,
+      	"corruption_targets": 0,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "waterplant": {
+      "chapter": 6,
+      "bspname": "infra_c6_m4_waterplant",
+      "infra_metadata":
+      {
+      	"camera_targets": 14,
+      	"corruption_targets": 2,
+      	"repair_targets": 2,
+      	"mistake_targets": 3,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "minitrain": {
+      "chapter": 6,
+      "bspname": "infra_c6_m5_minitrain",
+      "infra_metadata":
+      {
+      	"camera_targets": 25,
+      	"corruption_targets": 0,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "central": {
+      "chapter": 6,
+      "bspname": "infra_c6_m6_central",
+      "infra_metadata":
+      {
+      	"camera_targets": 4,
+      	"corruption_targets": 3,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "servicetunnel": {
+      "chapter": 7,
+      "bspname": "infra_c7_m1_servicetunnel",
+      "infra_metadata":
+      {
+      	"camera_targets": 16,
+      	"corruption_targets": 6,
+      	"repair_targets": 2,
+      	"mistake_targets": 4,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "skyscraper": {
+      "chapter": 7,
+      "bspname": "infra_c7_m1b_skyscraper",
+      "infra_metadata":
+      {
+      	"camera_targets": 0,
+      	"corruption_targets": 3,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "bunker": {
+      "chapter": 7,
+      "bspname": "infra_c7_m2_bunker",
+      "infra_metadata":
+      {
+      	"camera_targets": 11,
+      	"corruption_targets": 14,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "stormdrain": {
+      "chapter": 7,
+      "bspname": "infra_c7_m3_stormdrain",
+      "infra_metadata":
+      {
+      	"camera_targets": 29,
+      	"corruption_targets": 3,
+      	"repair_targets": 1,
+      	"mistake_targets": 1,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "cistern": {
+      "chapter": 7,
+      "bspname": "infra_c7_m4_cistern",
+      "infra_metadata":
+      {
+      	"camera_targets": 19,
+      	"corruption_targets": 3,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "powerstation": {
+      "chapter": 7,
+      "bspname": "infra_c7_m5_powerstation",
+      "infra_metadata":
+      {
+      	"camera_targets": 4,
+      	"corruption_targets": 1,
+      	"repair_targets": 1,
+      	"mistake_targets": 4,
+      	"geocaches": 0,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": false
+    },
+    "powerstation2": {
+      "chapter": 8,
+      "bspname": "infra_c8_m1_powerstation2",
+      "infra_metadata":
+      {
+      	"camera_targets": 17,
+      	"corruption_targets": 3,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "isle1": {
+      "chapter": 8,
+      "bspname": "infra_c8_m3_isle1",
+      "infra_metadata":
+      {
+      	"camera_targets": 4,
+      	"corruption_targets": 1,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 3,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "isle2": {
+      "chapter": 8,
+      "bspname": "infra_c8_m4_isle2",
+      "infra_metadata":
+      {
+      	"camera_targets": 10,
+      	"corruption_targets": 4,
+      	"repair_targets": 1,
+      	"mistake_targets": 2,
+      	"geocaches": 3,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "isle3": {
+      "chapter": 8,
+      "bspname": "infra_c8_m5_isle3",
+      "infra_metadata":
+      {
+      	"camera_targets": 13,
+      	"corruption_targets": 2,
+      	"repair_targets": 1,
+      	"mistake_targets": 0,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "business": {
+      "chapter": 8,
+      "bspname": "infra_c8_m6_business",
+      "infra_metadata":
+      {
+      	"camera_targets": 9,
+      	"corruption_targets": 5,
+      	"repair_targets": 1,
+      	"mistake_targets": 0,
+      	"geocaches": 3,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "business2": {
+      "chapter": 8,
+      "bspname": "infra_c8_m7_business2",
+      "infra_metadata":
+      {
+      	"camera_targets": 8,
+      	"corruption_targets": 0,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "rails": {
+      "chapter": 9,
+      "bspname": "infra_c9_m2_rails",
+      "infra_metadata":
+      {
+      	"camera_targets": 5,
+      	"corruption_targets": 0,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 2,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "tenements": {
+      "chapter": 9,
+      "bspname": "infra_c9_m3_tenements",
+      "infra_metadata":
+      {
+      	"camera_targets": 10,
+      	"corruption_targets": 10,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "river": {
+      "chapter": 9,
+      "bspname": "infra_c9_m4_river",
+      "infra_metadata":
+      {
+      	"camera_targets": 5,
+      	"corruption_targets": 1,
+      	"repair_targets": 0,
+      	"mistake_targets": 1,
+      	"geocaches": 2,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "villa": {
+      "chapter": 9,
+      "bspname": "infra_c9_m5_villa",
+      "infra_metadata":
+      {
+      	"camera_targets": 4,
+      	"corruption_targets": 8,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    },
+    "field": {
+      "chapter": 9,
+      "bspname": "infra_c9_m6_field",
+      "infra_metadata":
+      {
+      	"camera_targets": 2,
+      	"corruption_targets": 0,
+      	"repair_targets": 0,
+      	"mistake_targets": 0,
+      	"geocaches": 1,
+      	"water_flow_meter_targets": 0
+      },
+      "playtest": true
+    }
+  },
+  "chapterlist": {
+    "1": "Preparations",
+    "2": "Just Another Day at Work",
+    "3": "Forgotten World",
+    "4": "Heavy Industry of the Past",
+    "5": "Fresh Water",
+    "6": "Public Transport",
+    "7": "Working Overtime",
+    "8": "Unknown Part 3 Chapter",
+    "9": "Unknown Part 3 Chapter"
+  }
+}
